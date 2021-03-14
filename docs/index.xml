@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal SIEM</title>
+    <link>https://personalsiem.xyz/</link>
+    <description>Recent content on Personal SIEM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Mar 2021 21:22:05 -0800</lastBuildDate><atom:link href="https://personalsiem.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Purpose</title>
+      <link>https://personalsiem.xyz/posts/introduction/</link>
+      <pubDate>Sat, 13 Mar 2021 21:22:05 -0800</pubDate>
+      
+      <guid>https://personalsiem.xyz/posts/introduction/</guid>
+      <description>This is a personal project to make an effort to protect my home network. I hope you find it helpful in securing your own.
+I&amp;rsquo;m starting from a place of having some equipment in my house. Fiberoptic internet coming in, converter, Araknis router, two luxul switches. Have a couple of WAPs.
+In my house there are a lot of devices:
+ Personal Laptop Testing Laptop Personal Desktop Work Laptop Ipad 1 Ipad 2 Sonos 1 Sonos 2 Google Home Kid 1 Laptop 1 Kid 1 Laptop 2 Kid 1 Workstation Kid 2 Laptop 1 Kid 2 Laptop 2 iPhone 1 iPhone 2 iPhone 3 Panasonic TV HP Printer  What I want to do is a couple of things.</description>
+    </item>
+    
+  </channel>
+</rss>

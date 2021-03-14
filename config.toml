@@ -1,0 +1,5 @@
+baseURL = "https://personalsiem.xyz/"
+languageCode = "en-us"
+title = "Personal SIEM"
+theme = "ananke"
+publishDir = "docs"
